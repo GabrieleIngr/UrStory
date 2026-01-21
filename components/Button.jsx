@@ -7,3 +7,5 @@ function Button({ children, size, color, onClick }) {
 }
 
 export default Button;
+
+//test 2
